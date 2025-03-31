@@ -264,11 +264,6 @@ if not df_insiders.empty:
 else:
     print("🕵️ No insider trade data to write.")
 
-
-# === Save and Close ===
-#wb.save()
-#wb.close()
-
 if errored:
     print("\nTickers with errors:", errored)
 
