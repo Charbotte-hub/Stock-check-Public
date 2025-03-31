@@ -1,0 +1,15 @@
+🐣 Python script started!
+📌 [Checkpoint: Logging Setup]
+🧠 Reached step: load API
+🧠 Reached step: def finn news
+🧠 Reached step: def yahoo news
+🧠 Reached step: def finn insider
+🧠 Reached step: halfway book caller
+🧠 Reached step: full book caller
+🧠 Reached step: writing to Z1
+🎯 Ticker list: ['GOOGL', 'META', 'BNS.TO']
+🧠 Reached step: clear old news
+🧠 Reached step: insert news
+🧠 Reached step: insert insider
+📰 News rows: 83
+🕵️ Insider rows: 2558
