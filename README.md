@@ -47,11 +47,12 @@ FINNHUB_API_KEY=your_finnhub_key_here
 
 ## 🚀 How to Run
 
-Open the provided Excel file and click:
+Open the provided Excel file:
 
-- **Button 1:** Set Python script path (stored in hidden sheet)
-- **Button 2:** Clear old data and run Python script
-- **Button 3:** Show full log output of last run
+- In **watchlist** tab, work on your tickers, add, analysis, keep, remove etc
+- **Button 1: End of Session** Save all your note, analysis, grade into history columns and extract tickers that action not "delete" to **watchlist check**
+- **Button 2:** Find the path to Python script
+- **Button 3:** Clear old data and run Python script
 
 All results are displayed in:
 - `News` tab
