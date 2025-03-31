@@ -1,5 +1,0 @@
-🐍 Connected to: C:\Users\buith\OneDrive\Desktop\Github\Public\Stock check\Stock check - Public.xlsm
-✅ Wrote to Z1 successfully!
-Bad API response for GOOGL: Invalid API key
-Bad API response for META: Invalid API key
-Finnhub - Skipping blocked ticker: BNS.TO

@@ -1,5 +1,0 @@
-🔑 API KEY: cvkn8ahr01qtnb8tn8i0cvkn8ahr01qtnb8tn8ig
-📂 Current working directory: C:\Users\buith\OneDrive\Desktop\Github\Public\Stock check
-🐍 Connected to: C:\Users\buith\OneDrive\Desktop\Github\Public\Stock check\Stock check - Public.xlsm
-✅ Wrote to Z1 successfully!
-Finnhub - Skipping blocked ticker: BNS.TO
